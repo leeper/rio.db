@@ -6,5 +6,5 @@
     } else {
         DBI::dbWriteTable(con, table, x, ...)
     }
-    return(x)
+    return(file)
 }
