@@ -1,0 +1,6 @@
+importFrom(rio, .import, .export)
+importFrom(DBI, dbConnect, dbDisconnect, dbListTables, dbReadTable, dbWriteTable)
+importFrom(RSQLite, SQLite)
+
+S3method(.import, rio_sqlite)
+S3method(.export, rio_sqlite)
