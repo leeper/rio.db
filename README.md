@@ -10,7 +10,7 @@ The package is available on [CRAN](http://cran.r-project.org/web/packages/rio.db
 install.packages("rio.db")
 ```
 
-The latest development version on GitHub can be installed using **devtools**:
+The latest development version on GitHub can be installed using **ghit**:
 
 ```R
 if(!require("ghit")){
