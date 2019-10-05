@@ -6,8 +6,8 @@ Date: 2016-03-06
 Maintainer: Thomas J. Leeper <thosjleeper@gmail.com>
 Authors@R: c(person("Thomas J.", "Leeper", role = c("aut", "cre"), email = "thosjleeper@gmail.com"))
 Description: Database import and export extensions for rio.
-Depends: R (>= 2.15.0)
 Depends:
+    R (>= 2.15.0),
     rio
 Imports:
     DBI,
